@@ -11,3 +11,5 @@ venv/Scripts/activate
 pip install -r requirements.txt
 streamlit run app.py
 ```
+# Medium Article
+https://medium.com/python-in-plain-english/how-to-build-a-streamlit-app-to-scrape-github-profiles-f36d41fb98c
